@@ -19,4 +19,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjl-lab&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<!-- [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=wjl-lab&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wjl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
