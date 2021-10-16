@@ -15,11 +15,9 @@
 <!-- ⚡ Fun fact: ... -->
 
 
-[![wjl's GitHub stats](https://github-readme-stats.vercel.app/api?username=wjl-lab&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api/?username=wjl-lab&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjl-lab&layout=compact&hide=scss,css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjl-lab&layout=compact&hide=scss,css,html)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=wjl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats) -->
+[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime/?username=wjl&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
