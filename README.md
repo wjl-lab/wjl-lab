@@ -2,7 +2,7 @@
 
 <!-- - 🔭 I’m currently working on ... -->
 
-🌱 I’m currently learning java and vue
+🌱 Full stack training
 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
