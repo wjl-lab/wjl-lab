@@ -15,6 +15,6 @@
 <!-- ⚡ Fun fact: ... -->
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api/?username=wjl-lab&count_private=true&show_icons=true&border_color=2e4058)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api/?username=wjl-lab&include_all_commits=true&count_private=true&show_icons=true&border_color=2e4058)](https://github.com/anuraghazra/github-readme-stats)
 
 [![top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wjl-lab&layout=compact&hide=scss,css,html&border_color=2e4058)](https://github.com/anuraghazra/github-readme-stats)
