@@ -2,7 +2,7 @@
 
 <!-- - 🔭 I’m currently working on ... -->
 
-🌱 Full stack training
+<!-- 🌱 Full stack training -->
 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
